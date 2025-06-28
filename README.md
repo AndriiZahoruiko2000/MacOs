@@ -1,1 +1,2 @@
 # MacOs
+study is good
